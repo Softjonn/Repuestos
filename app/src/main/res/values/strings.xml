@@ -5,4 +5,24 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <string-array name="productos">
+        <item>Baleros</item>
+        <item>Chumaceras</item>
+        <item>Cruceta</item>
+        <item>Fajas</item>
+        <item>Retenedores</item>
+        <item>Pinones</item>
+        <item>Silicon</item>
+    </string-array>
+
+    <string-array name="productos_descripcion">
+        <item>Todo tipo de baleros</item>
+        <item>De fabricacion japonesa</item>
+        <item>Material acero</item>
+        <item>Fajas oroginales y genericas</item>
+        <item>Retenedores para todo tipo de motores</item>
+        <item>Pinones para las marcas mas populares</item>
+        <item>Silicon de alta temperatura</item>
+    </string-array>
 </resources>
