@@ -18,7 +18,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Productos"></activity>
+        <activity android:name=".Productos" />
+        <activity android:name=".ConsultasFragment"></activity>
     </application>
 
 </manifest>
